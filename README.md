@@ -1,13 +1,16 @@
-# hello-py
+#python learning journey
+这是我的python与ai数据分析入门项目
 
-我的第一个 Python 项目：读取 CSV 并计算统计值。
+##包含项目
+_'main.py':读取csv数据，计算平均值，并进行基础可视化。
+_'template.py':常用的数据处理代码模块。
+——‘data.csv':用于测试实例数据集。
+_'my_plot.pong':代码生成的折线图
 
-## 怎么运行
+##环境依赖
+_python 3.x
+_pandas
+_matplotlib
 
-```bash
-python stats.py
-```
-
-## 环境
-
-Python 3.15 + 项目内置 venv
+##如何运行
+在线输入：'python main.py'
